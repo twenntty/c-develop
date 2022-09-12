@@ -1,0 +1,15 @@
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/bin/Debug/net6.0/pr-1-bilous
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/bin/Debug/net6.0/pr-1-bilous.deps.json
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/bin/Debug/net6.0/pr-1-bilous.runtimeconfig.json
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/bin/Debug/net6.0/pr-1-bilous.dll
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/bin/Debug/net6.0/pr-1-bilous.pdb
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/obj/Debug/net6.0/pr-1-bilous.csproj.AssemblyReference.cache
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/obj/Debug/net6.0/pr-1-bilous.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/obj/Debug/net6.0/pr-1-bilous.AssemblyInfoInputs.cache
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/obj/Debug/net6.0/pr-1-bilous.AssemblyInfo.cs
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/obj/Debug/net6.0/pr-1-bilous.csproj.CoreCompileInputs.cache
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/obj/Debug/net6.0/pr-1-bilous.dll
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/obj/Debug/net6.0/refint/pr-1-bilous.dll
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/obj/Debug/net6.0/pr-1-bilous.pdb
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/obj/Debug/net6.0/pr-1-bilous.genruntimeconfig.cache
+/Users/mark/Documents/c-sharp/pr-1/pr-1-bilous/pr-1-bilous/obj/Debug/net6.0/ref/pr-1-bilous.dll
