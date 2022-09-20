@@ -1,0 +1,15 @@
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/bin/Debug/net6.0/Lb-1
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/bin/Debug/net6.0/Lb-1.deps.json
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/bin/Debug/net6.0/Lb-1.runtimeconfig.json
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/bin/Debug/net6.0/Lb-1.dll
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/bin/Debug/net6.0/Lb-1.pdb
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/obj/Debug/net6.0/Lb-1.csproj.AssemblyReference.cache
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/obj/Debug/net6.0/Lb-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/obj/Debug/net6.0/Lb-1.AssemblyInfoInputs.cache
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/obj/Debug/net6.0/Lb-1.AssemblyInfo.cs
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/obj/Debug/net6.0/Lb-1.csproj.CoreCompileInputs.cache
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/obj/Debug/net6.0/Lb-1.dll
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/obj/Debug/net6.0/refint/Lb-1.dll
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/obj/Debug/net6.0/Lb-1.pdb
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/obj/Debug/net6.0/Lb-1.genruntimeconfig.cache
+/Users/mark/Documents/c-sharp/Lb-1/Lb-1/obj/Debug/net6.0/ref/Lb-1.dll
