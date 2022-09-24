@@ -1,0 +1,15 @@
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/bin/Debug/net6.0/lb-4
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/bin/Debug/net6.0/lb-4.deps.json
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/bin/Debug/net6.0/lb-4.runtimeconfig.json
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/bin/Debug/net6.0/lb-4.dll
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/bin/Debug/net6.0/lb-4.pdb
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/obj/Debug/net6.0/lb-4.csproj.AssemblyReference.cache
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/obj/Debug/net6.0/lb-4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/obj/Debug/net6.0/lb-4.AssemblyInfoInputs.cache
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/obj/Debug/net6.0/lb-4.AssemblyInfo.cs
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/obj/Debug/net6.0/lb-4.csproj.CoreCompileInputs.cache
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/obj/Debug/net6.0/lb-4.dll
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/obj/Debug/net6.0/refint/lb-4.dll
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/obj/Debug/net6.0/lb-4.pdb
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/obj/Debug/net6.0/lb-4.genruntimeconfig.cache
+/Users/mark/Documents/c-sharp/Lb-4/lb-4/obj/Debug/net6.0/ref/lb-4.dll
