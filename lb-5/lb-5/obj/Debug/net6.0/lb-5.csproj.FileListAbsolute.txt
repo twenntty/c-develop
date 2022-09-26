@@ -1,0 +1,15 @@
+/Users/mark/Documents/c-sharp/lb-5/lb-5/bin/Debug/net6.0/lb-5
+/Users/mark/Documents/c-sharp/lb-5/lb-5/bin/Debug/net6.0/lb-5.deps.json
+/Users/mark/Documents/c-sharp/lb-5/lb-5/bin/Debug/net6.0/lb-5.runtimeconfig.json
+/Users/mark/Documents/c-sharp/lb-5/lb-5/bin/Debug/net6.0/lb-5.dll
+/Users/mark/Documents/c-sharp/lb-5/lb-5/bin/Debug/net6.0/lb-5.pdb
+/Users/mark/Documents/c-sharp/lb-5/lb-5/obj/Debug/net6.0/lb-5.csproj.AssemblyReference.cache
+/Users/mark/Documents/c-sharp/lb-5/lb-5/obj/Debug/net6.0/lb-5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/Documents/c-sharp/lb-5/lb-5/obj/Debug/net6.0/lb-5.AssemblyInfoInputs.cache
+/Users/mark/Documents/c-sharp/lb-5/lb-5/obj/Debug/net6.0/lb-5.AssemblyInfo.cs
+/Users/mark/Documents/c-sharp/lb-5/lb-5/obj/Debug/net6.0/lb-5.csproj.CoreCompileInputs.cache
+/Users/mark/Documents/c-sharp/lb-5/lb-5/obj/Debug/net6.0/lb-5.dll
+/Users/mark/Documents/c-sharp/lb-5/lb-5/obj/Debug/net6.0/refint/lb-5.dll
+/Users/mark/Documents/c-sharp/lb-5/lb-5/obj/Debug/net6.0/lb-5.pdb
+/Users/mark/Documents/c-sharp/lb-5/lb-5/obj/Debug/net6.0/lb-5.genruntimeconfig.cache
+/Users/mark/Documents/c-sharp/lb-5/lb-5/obj/Debug/net6.0/ref/lb-5.dll
