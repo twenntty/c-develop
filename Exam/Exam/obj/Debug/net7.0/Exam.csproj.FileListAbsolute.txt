@@ -1,0 +1,15 @@
+/Users/mark/Documents/c-sharp/Exam/Exam/bin/Debug/net7.0/Exam
+/Users/mark/Documents/c-sharp/Exam/Exam/bin/Debug/net7.0/Exam.deps.json
+/Users/mark/Documents/c-sharp/Exam/Exam/bin/Debug/net7.0/Exam.runtimeconfig.json
+/Users/mark/Documents/c-sharp/Exam/Exam/bin/Debug/net7.0/Exam.dll
+/Users/mark/Documents/c-sharp/Exam/Exam/bin/Debug/net7.0/Exam.pdb
+/Users/mark/Documents/c-sharp/Exam/Exam/obj/Debug/net7.0/Exam.csproj.AssemblyReference.cache
+/Users/mark/Documents/c-sharp/Exam/Exam/obj/Debug/net7.0/Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/Documents/c-sharp/Exam/Exam/obj/Debug/net7.0/Exam.AssemblyInfoInputs.cache
+/Users/mark/Documents/c-sharp/Exam/Exam/obj/Debug/net7.0/Exam.AssemblyInfo.cs
+/Users/mark/Documents/c-sharp/Exam/Exam/obj/Debug/net7.0/Exam.csproj.CoreCompileInputs.cache
+/Users/mark/Documents/c-sharp/Exam/Exam/obj/Debug/net7.0/Exam.dll
+/Users/mark/Documents/c-sharp/Exam/Exam/obj/Debug/net7.0/refint/Exam.dll
+/Users/mark/Documents/c-sharp/Exam/Exam/obj/Debug/net7.0/Exam.pdb
+/Users/mark/Documents/c-sharp/Exam/Exam/obj/Debug/net7.0/Exam.genruntimeconfig.cache
+/Users/mark/Documents/c-sharp/Exam/Exam/obj/Debug/net7.0/ref/Exam.dll
